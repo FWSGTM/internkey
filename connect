@@ -1,1 +1,2 @@
 ssh -i "myinternkey.pem" ec2-user@3.84.14.193
+ssh -i "myinternkey1.pem" ec2-user@3.88.69.156
